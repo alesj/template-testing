@@ -254,7 +254,7 @@
                         "labels": {
                             "deploymentConfig": "${APPLICATION_NAME}",
                             "application": "${APPLICATION_NAME}",
-                            "deployment": "${DEPLOYMENT_NAME}"
+                            "deploymentArchiveName": "${DEPLOYMENT_NAME}"
                         }
                     },
                     "spec": {
